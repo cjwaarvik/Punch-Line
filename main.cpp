@@ -9,8 +9,8 @@ void displayLastLine(ifstream &infile);
 int main()
 {
 
-	ifstream joke("C:\\Users\\Christian\\Desktop\\joke.txt", ios::in);
-	ifstream punchline("C:\\Users\\Christian\\Desktop\\punchline.txt", ios::in);
+	ifstream joke("C:\\Users\User\\Desktop\\joke.txt", ios::in);
+	ifstream punchline("C:\\Users\\User\\Desktop\\punchline.txt", ios::in);
 
 
 
